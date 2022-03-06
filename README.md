@@ -4,6 +4,10 @@ Packages Used<br/>
 react-native-vector-icons,<br/>
 react-native-parsed-text,<br/>
 react-native-linear-gradient<br/>
+react-native-firebase/firestore<br/>
+
+<h4>No of questions 5</h4>
+<h4>Transalation german to english</h4>
 
 <h2>Android ScreenShots</h2><br/>
 <div style={display:flex, flex-direction: column, justify-content: space-between}>
