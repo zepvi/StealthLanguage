@@ -20,3 +20,8 @@ react-native-firebase/firestore<br/>
 <img width="300" alt="Screenshot 2022-03-06 at 10 11 36 PM" src="https://user-images.githubusercontent.com/51078090/156932850-4ddac3c9-4792-4764-bc2f-d8ab22fc49e2.png">
 <img width="300" alt="Screenshot 2022-03-06 at 10 11 55 PM" src="https://user-images.githubusercontent.com/51078090/156932853-025abf76-354d-44ab-bd1d-dcacb771072b.png">
 <div>
+  
+ <h2>Database Schema</h2>
+  <img width="1263" alt="Screenshot 2022-03-06 at 10 47 48 PM" src="https://user-images.githubusercontent.com/51078090/156934195-a06c8eef-e88b-4745-a776-76ddb52b37a6.png">
+
+  
